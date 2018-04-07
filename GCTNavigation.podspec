@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/GCTec/GCTNavigation.git", :tag => s.version }
   s.pod_target_xcconfig = { 'OTHER_LDFLAGS' => '-lObjC' }
-  s.frameworks = 'UIKit', 'Foundation','Photos'
+  s.frameworks = 'UIKit', 'Foundation'
   s.requires_arc = true
 
   s.public_header_files = 'GCTNavigation/Classes/*.h'
