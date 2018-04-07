@@ -1,0 +1,16 @@
+PODS:
+  - GCTNavigation (0.0.1)
+
+DEPENDENCIES:
+  - GCTNavigation (from `../`)
+
+EXTERNAL SOURCES:
+  GCTNavigation:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GCTNavigation: e5543c3646df4a23abc857b484254a655632b86e
+
+PODFILE CHECKSUM: af2da2c579a26d21eb076e7591059450eb92e6fe
+
+COCOAPODS: 1.4.0
